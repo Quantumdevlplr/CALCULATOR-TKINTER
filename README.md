@@ -19,3 +19,11 @@ Ensure you have Python installed on your system. This project requires Python 3.
 Python Libraries
 
 tkinter: This is a standard library in Python, so no additional installation is required.
+
+Usage
+
+Launch the application by running the calculator.py file.
+
+Use the on-screen buttons to perform calculations.
+
+Press C to clear the current input or result.
